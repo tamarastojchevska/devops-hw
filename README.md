@@ -1,1 +1,2 @@
-This is an assigment for the subject DevOps.
+### About
+This is a homework assignment for the subject DevOps.
